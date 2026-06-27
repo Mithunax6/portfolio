@@ -45,4 +45,4 @@ Email: mithuna0673@gmail.com
 LinkedIn: https://www.linkedin.com/in/mithuna-r-3b78a233b/
 GitHub: https://github.com/Mithunax6
 
-Built with love by Mithuna R
+Built by Mithuna R
